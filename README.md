@@ -18,11 +18,11 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasmineaf22&show_icons=true&theme=default" alt="Jasmine's GitHub stats" />
+  <img src="https://github-readme-stats-jasmine.vercel.app/api?username=jasmineaf22&show_icons=true&theme=default" alt="Jasmine's GitHub stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineaf22&layout=compact&langs_count=8&theme=default" alt="Top Langs" />
+  <img src="https://github-readme-stats-jasmine.vercel.app/api/top-langs/?username=jasmineaf22&layout=compact&langs_count=8&theme=default" alt="Top Langs" />
 </p>
 
 ---
